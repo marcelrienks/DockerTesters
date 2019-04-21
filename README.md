@@ -1,5 +1,5 @@
-# DockerTesters
-Console apps to test Docker
+# PieceOfCake.DockerTesters
+This is a (P)iece(O)f(C)ake or a POC to test creating console apps that run within docker.
 
 These are two console apps used to test out docker.
 Each project has it's won readme file that explains how to use either project specifically. These apps do not explain entirely how to use docker, or how docker works. but they serve as Hello Worlds once you have a very basic understanding of docker, and have set up docker on your local machine
