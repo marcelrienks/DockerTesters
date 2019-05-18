@@ -1,4 +1,5 @@
-# PieceOfCake.DockerTesters [![Build status](https://ci.appveyor.com/api/projects/status/e5orag11xmvja109?svg=true)](https://ci.appveyor.com/project/marcelrienks/pieceofcake-dockertesters)
+# PieceOfCake.DockerTesters
+[![Build Status](https://dev.azure.com/marcelrienks/PieceOfCake.DockerTesters/_apis/build/status/marcelrienks.PieceOfCake.DockerTesters?branchName=master)](https://dev.azure.com/marcelrienks/PieceOfCake.DockerTesters/_build/latest?definitionId=8&branchName=master)  
 This is a (P)iece(O)f(C)ake or a POC to test creating console apps that run within docker.
 
 These are two console apps used to test out docker.
